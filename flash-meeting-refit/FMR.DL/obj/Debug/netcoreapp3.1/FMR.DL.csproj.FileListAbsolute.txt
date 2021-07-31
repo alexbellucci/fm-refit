@@ -1,0 +1,9 @@
+F:\ALEX\WS\flashMeeting\fm-refit\flash-meeting-refit\FMR.DL\bin\Debug\netcoreapp3.1\FMR.DL.deps.json
+F:\ALEX\WS\flashMeeting\fm-refit\flash-meeting-refit\FMR.DL\bin\Debug\netcoreapp3.1\FMR.DL.dll
+F:\ALEX\WS\flashMeeting\fm-refit\flash-meeting-refit\FMR.DL\bin\Debug\netcoreapp3.1\FMR.DL.pdb
+F:\ALEX\WS\flashMeeting\fm-refit\flash-meeting-refit\FMR.DL\obj\Debug\netcoreapp3.1\FMR.DL.csprojAssemblyReference.cache
+F:\ALEX\WS\flashMeeting\fm-refit\flash-meeting-refit\FMR.DL\obj\Debug\netcoreapp3.1\FMR.DL.AssemblyInfoInputs.cache
+F:\ALEX\WS\flashMeeting\fm-refit\flash-meeting-refit\FMR.DL\obj\Debug\netcoreapp3.1\FMR.DL.AssemblyInfo.cs
+F:\ALEX\WS\flashMeeting\fm-refit\flash-meeting-refit\FMR.DL\obj\Debug\netcoreapp3.1\FMR.DL.csproj.CoreCompileInputs.cache
+F:\ALEX\WS\flashMeeting\fm-refit\flash-meeting-refit\FMR.DL\obj\Debug\netcoreapp3.1\FMR.DL.dll
+F:\ALEX\WS\flashMeeting\fm-refit\flash-meeting-refit\FMR.DL\obj\Debug\netcoreapp3.1\FMR.DL.pdb

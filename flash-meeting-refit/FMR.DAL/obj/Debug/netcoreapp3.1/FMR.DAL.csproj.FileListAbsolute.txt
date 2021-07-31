@@ -1,0 +1,13 @@
+F:\ALEX\WS\flashMeeting\fm-refit\flash-meeting-refit\FMR.DAL\bin\Debug\netcoreapp3.1\FMR.DAL.deps.json
+F:\ALEX\WS\flashMeeting\fm-refit\flash-meeting-refit\FMR.DAL\bin\Debug\netcoreapp3.1\FMR.DAL.dll
+F:\ALEX\WS\flashMeeting\fm-refit\flash-meeting-refit\FMR.DAL\bin\Debug\netcoreapp3.1\FMR.DAL.pdb
+F:\ALEX\WS\flashMeeting\fm-refit\flash-meeting-refit\FMR.DAL\bin\Debug\netcoreapp3.1\FMR.DL.dll
+F:\ALEX\WS\flashMeeting\fm-refit\flash-meeting-refit\FMR.DAL\bin\Debug\netcoreapp3.1\FMR.DL.pdb
+F:\ALEX\WS\flashMeeting\fm-refit\flash-meeting-refit\FMR.DAL\obj\Debug\netcoreapp3.1\FMR.DAL.csprojAssemblyReference.cache
+F:\ALEX\WS\flashMeeting\fm-refit\flash-meeting-refit\FMR.DAL\obj\Debug\netcoreapp3.1\RefitStubs.g.cs
+F:\ALEX\WS\flashMeeting\fm-refit\flash-meeting-refit\FMR.DAL\obj\Debug\netcoreapp3.1\FMR.DAL.AssemblyInfoInputs.cache
+F:\ALEX\WS\flashMeeting\fm-refit\flash-meeting-refit\FMR.DAL\obj\Debug\netcoreapp3.1\FMR.DAL.AssemblyInfo.cs
+F:\ALEX\WS\flashMeeting\fm-refit\flash-meeting-refit\FMR.DAL\obj\Debug\netcoreapp3.1\FMR.DAL.csproj.CoreCompileInputs.cache
+F:\ALEX\WS\flashMeeting\fm-refit\flash-meeting-refit\FMR.DAL\obj\Debug\netcoreapp3.1\FMR.DAL.csproj.CopyComplete
+F:\ALEX\WS\flashMeeting\fm-refit\flash-meeting-refit\FMR.DAL\obj\Debug\netcoreapp3.1\FMR.DAL.dll
+F:\ALEX\WS\flashMeeting\fm-refit\flash-meeting-refit\FMR.DAL\obj\Debug\netcoreapp3.1\FMR.DAL.pdb

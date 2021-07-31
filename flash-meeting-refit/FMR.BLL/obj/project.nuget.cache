@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "U6Mos5iAgedqa98Ooef3xwC7+gvDoDfpHdqTnHzPMGVDphEoTUnG5vDqdhI8aCzmAeSSUcuGurvLgrGKD+rceQ==",
+  "success": true,
+  "projectFilePath": "F:\\ALEX\\WS\\flashMeeting\\fm-refit\\flash-meeting-refit\\FMR.BLL\\FMR.BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alex.bellucci\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\alex.bellucci\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\alex.bellucci\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\alex.bellucci\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\alex.bellucci\\.nuget\\packages\\refit\\5.1.67\\refit.5.1.67.nupkg.sha512",
+    "C:\\Users\\alex.bellucci\\.nuget\\packages\\system.text.json\\4.7.1\\system.text.json.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

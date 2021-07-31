@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FMR.API", "flash-meeting-refit\FMR.API.csproj", "{D627185E-6876-49E0-BFE3-4F8E9D5CA0BC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8D824659-1CFA-4B7B-82F9-24CED3BAE844} = {8D824659-1CFA-4B7B-82F9-24CED3BAE844}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FMR.BLL", "FMR.BLL\FMR.BLL.csproj", "{6489EE47-7234-4FDF-9488-768F3275B85B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2F5FA036-1864-45AF-8573-CE13C5B2F20A} = {2F5FA036-1864-45AF-8573-CE13C5B2F20A}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FMR.DAL", "FMR.DAL\FMR.DAL.csproj", "{8D824659-1CFA-4B7B-82F9-24CED3BAE844}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FMR.DL", "FMR.DL\FMR.DL.csproj", "{2F5FA036-1864-45AF-8573-CE13C5B2F20A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D627185E-6876-49E0-BFE3-4F8E9D5CA0BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D627185E-6876-49E0-BFE3-4F8E9D5CA0BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D627185E-6876-49E0-BFE3-4F8E9D5CA0BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D627185E-6876-49E0-BFE3-4F8E9D5CA0BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6489EE47-7234-4FDF-9488-768F3275B85B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6489EE47-7234-4FDF-9488-768F3275B85B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6489EE47-7234-4FDF-9488-768F3275B85B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6489EE47-7234-4FDF-9488-768F3275B85B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D824659-1CFA-4B7B-82F9-24CED3BAE844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D824659-1CFA-4B7B-82F9-24CED3BAE844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D824659-1CFA-4B7B-82F9-24CED3BAE844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D824659-1CFA-4B7B-82F9-24CED3BAE844}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F5FA036-1864-45AF-8573-CE13C5B2F20A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F5FA036-1864-45AF-8573-CE13C5B2F20A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F5FA036-1864-45AF-8573-CE13C5B2F20A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F5FA036-1864-45AF-8573-CE13C5B2F20A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9AB3F13-A67A-44DF-8A18-2CDA405B0FCD}
+	EndGlobalSection
+EndGlobal

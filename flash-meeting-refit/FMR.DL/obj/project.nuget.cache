@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CtyPlXbDtA6uBiwhtv2p6zoerpwV+hmqQvj23VtKvavws94E7JX6U4VIJtRax9Cat7EFHzwaFpSJwxRoA2KlPQ==",
+  "success": true,
+  "projectFilePath": "F:\\ALEX\\WS\\flashMeeting\\fm-refit\\flash-meeting-refit\\FMR.DL\\FMR.DL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alex.bellucci\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
