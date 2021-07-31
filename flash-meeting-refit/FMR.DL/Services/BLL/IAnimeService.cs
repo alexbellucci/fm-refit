@@ -1,6 +1,4 @@
 ﻿using FMR.DL.Response.Client.AnimeClient;
-using Inscricao.DL.Response.Base;
-using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 

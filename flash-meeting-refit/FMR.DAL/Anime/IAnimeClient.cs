@@ -1,8 +1,5 @@
-﻿using FMR.DAL;
-using FMR.DL.Response.Client.AnimeClient;
-using Microsoft.Extensions.Configuration;
+﻿using FMR.DL.Response.Client.AnimeClient;
 using Refit;
-using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 

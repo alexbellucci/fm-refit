@@ -1,15 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net.Mime;
-using System.Threading.Tasks;
-using FMR.DL.Response.Client.DicionarioClient;
+﻿using FMR.DL.Response.Client.DicionarioClient;
 using FMR.DL.Service.BLL;
 using Inscricao.DL.Response.Base;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 using Swashbuckle.AspNetCore.Annotations;
+using System.Net.Mime;
+using System.Threading.Tasks;
 
 namespace FMR.API.Controllers
 {

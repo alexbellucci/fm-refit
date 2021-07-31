@@ -1,10 +1,5 @@
-﻿using FMR.DAL;
-using FMR.DL.Response.Client.AnimeClient;
-using FMR.DL.Response.Client.DicionarioClient;
-using Microsoft.Extensions.Configuration;
+﻿using FMR.DL.Response.Client.DicionarioClient;
 using Refit;
-using System;
-using System.Collections.Generic;
 using System.Threading.Tasks;
 
 namespace FMR.BLL.Services
@@ -28,8 +23,8 @@ namespace FMR.BLL.Services
                                                                      );
 
         [Get("/v2/entries/en-us/{palavra}")]
-        Task<ApiResponse<DicionarioClientResponse>> BuscarSinonimos(string palavra, 
-                                                                      [AliasAs("fields")] string tituloAnime = "variantForms", 
+        Task<ApiResponse<DicionarioClientResponse>> BuscarSinonimos(string palavra,
+                                                                      [AliasAs("fields")] string tituloAnime = "variantForms",
                                                                       [AliasAs("strictMatch")] string strictMatch = "false"
                                                                      );
     }

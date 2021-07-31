@@ -1,6 +1,5 @@
 ﻿using FMR.BLL.Services;
 using FMR.DAL.Autenticacao;
-using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Refit;
 using System;
@@ -27,5 +26,5 @@ namespace FMR.BLL
                                                            new Uri("https://od-api.oxforddictionaries.com/api")
                                                    }));
         }
-     }
+    }
 }

@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace FMR.DL
+﻿namespace FMR.DL
 {
     public class AutenticacaoClientResponse
     {

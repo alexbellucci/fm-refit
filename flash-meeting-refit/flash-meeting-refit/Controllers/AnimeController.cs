@@ -1,15 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net.Mime;
-using System.Threading.Tasks;
-using FMR.DL.Response.Client.AnimeClient;
+﻿using FMR.DL.Response.Client.AnimeClient;
 using FMR.DL.Service.BLL;
 using Inscricao.DL.Response.Base;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 using Swashbuckle.AspNetCore.Annotations;
+using System.Collections.Generic;
+using System.Net.Mime;
+using System.Threading.Tasks;
 
 namespace FMR.API.Controllers
 {
@@ -65,7 +62,7 @@ namespace FMR.API.Controllers
             IList<AnimeClientResponse> falaAleatoria = await _animeService.BuscarFalasPorTituloAnime(tituloAnime);
             return new OkObjectResult(falaAleatoria);
         }
-        
+
         [HttpGet("/animes/falas/personagem")]
         [SwaggerOperation(OperationId = "BuscarFalaAleatoria",
                              Summary = "Buscar fala aleatoria")]
@@ -79,7 +76,7 @@ namespace FMR.API.Controllers
             IList<AnimeClientResponse> falaAleatoria = await _animeService.BuscarFalasPorNomePersonagem(nomePersonagem);
             return new OkObjectResult(falaAleatoria);
         }
-        
+
         [HttpGet("/animes")]
         [SwaggerOperation(OperationId = "BuscarFalaAleatoria",
                              Summary = "Buscar fala aleatoria")]
@@ -93,6 +90,6 @@ namespace FMR.API.Controllers
             IList<string> falaAleatoria = await _animeService.BuscarTodosAnimes();
             return new OkObjectResult(falaAleatoria);
         }
-        
+
     }
 }

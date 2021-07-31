@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace FMR.DL.Response.Client.AutenticacaoClient
+﻿namespace FMR.DL.Response.Client.AutenticacaoClient
 {
     public class AutenticacaoClientResponse
     {

@@ -1,13 +1,6 @@
-﻿using FMR.DAL;
-using FMR.DL.Response.Client.AnimeClient;
-using FMR.DL.Response.Client.DicionarioClient;
+﻿using FMR.DL.Response.Client.DicionarioClient;
 using FMR.DL.Service.BLL;
-using Inscricao.DL.Response.Base;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
 using Refit;
-using System;
-using System.Collections.Generic;
 using System.Threading.Tasks;
 
 namespace FMR.BLL.Services

@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace FMR.DL
+﻿namespace FMR.DL
 {
     // Interface para permitir uma fácil injeção de dependencia
     public interface IDependencyInjectionService
