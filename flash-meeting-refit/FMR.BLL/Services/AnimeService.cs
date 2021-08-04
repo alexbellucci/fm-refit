@@ -20,6 +20,11 @@ namespace FMR.BLL.Services
         {
             ApiResponse<AnimeClientResponse> falaAleatoria = await _animeClient.BuscarFalaAleatoria();
 
+            if (!falaAleatoria.IsSuccessStatusCode)
+            {
+                throw new KeyNotFoundException("Nenhuma fala encontrada");
+            }
+
             return falaAleatoria.Content;
         }
 

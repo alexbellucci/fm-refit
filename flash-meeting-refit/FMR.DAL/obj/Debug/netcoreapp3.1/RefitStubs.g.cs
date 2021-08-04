@@ -32,11 +32,8 @@ namespace FMR.DAL.RefitInternalGenerated
 #pragma warning disable CS8669 // The annotation for nullable reference types should only be used in code within a '#nullable' annotations context. Auto-generated code requires an explicit '#nullable' directive in source.
 namespace FMR.BLL.Services
 {
-    using global::FMR.DAL;
     using global::FMR.DL.Response.Client.AnimeClient;
-    using global::Microsoft.Extensions.Configuration;
     using global::Refit;
-    using global::System;
     using global::System.Collections.Generic;
     using global::System.Threading.Tasks;
 
@@ -102,13 +99,8 @@ namespace FMR.BLL.Services
 
 namespace FMR.BLL.Services
 {
-    using global::FMR.DAL;
-    using global::FMR.DL.Response.Client.AnimeClient;
     using global::FMR.DL.Response.Client.DicionarioClient;
-    using global::Microsoft.Extensions.Configuration;
     using global::Refit;
-    using global::System;
-    using global::System.Collections.Generic;
     using global::System.Threading.Tasks;
 
     /// <inheritdoc />
