@@ -7,9 +7,21 @@ namespace FMR.DL.Response.Client.DicionarioClient
     {
         [JsonProperty("definitions")] public List<string> DefinicoesAlternativas { get; set; }
         [JsonProperty("id")] public string IdDefinicaoAlternativa { get; set; }
+        [JsonProperty("examples")] public List<Exemplos> Exemplos { get; set; }
+        [JsonProperty("synonyms")] public List<Sinonimos> Sinonimos { get; set; }
     }
 
-    public class Sentido
+    public class Exemplos
+    {
+        [JsonProperty("text")] public string Exemplo { get; set; }
+    }
+
+    public class Sinonimos
+    {
+        [JsonProperty("text")] public string Sinonimo { get; set; }
+    }
+
+    public class Sentidos
     {
         [JsonProperty("definitions")] public List<string> Definicoes { get; set; }
         [JsonProperty("id")] public string IdDefinicao { get; set; }
@@ -18,7 +30,7 @@ namespace FMR.DL.Response.Client.DicionarioClient
 
     public class Entradas
     {
-        [JsonProperty("senses")] public List<Sentido> Sentidos { get; set; }
+        [JsonProperty("senses")] public List<Sentidos> Sentidos { get; set; }
     }
     public class EntradaLexical
     {
